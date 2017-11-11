@@ -42,7 +42,7 @@ public class Main {
   
   
   public static void main(String[] args) {
-    // TODO 自动生成的方法存根
+
     ArrayList<Document> doc_list = LoadCorpus("baiduQA.txt");
     int num_topic = 60; 
 //    int num_longdoc = 500;

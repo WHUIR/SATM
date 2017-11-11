@@ -1,6 +1,6 @@
 # SATM
 Our Java implementation of Self-Aggregation-Based Topic Model (SATM)
 
-The hyper-parameters are included in src/main.java, the way of loading dataset is included in suc/Document.java, it's better for you to read and change some codes (if necessaray) before you apply them.
+The hyper-parameter settings and the way of loading dataset are included in src/Main.java , you should read it and change some codes(if necessary) before you apply it.
 
-Wish our code can help your research =-=
+Wish our code can help your research.
